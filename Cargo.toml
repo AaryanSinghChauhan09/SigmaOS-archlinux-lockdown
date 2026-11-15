@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-lockdown component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-lockdown"
+name = "sigmaos_archlinux_lockdown"
 path = "src/lib.rs"
