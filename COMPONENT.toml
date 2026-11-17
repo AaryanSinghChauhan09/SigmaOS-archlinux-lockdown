@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-lockdown"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-lockdown component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
